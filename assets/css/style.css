@@ -1671,7 +1671,7 @@ li i {
 
 .whatsapp {
   position: sticky;
-  display: block;
+  display: inline-block;
   left: 20px;
   bottom: 20px;
   z-index: 99999;
