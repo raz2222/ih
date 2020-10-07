@@ -1,6 +1,6 @@
 body {
   background: #fff;
-  color: rgb(79, 129, 238);
+  color: #fff;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -613,7 +613,7 @@ section {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #fff;
+  background: #3a33ab;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
@@ -769,7 +769,7 @@ section {
 #features h4 {
   font-weight: 600;
   font-size: 24px;
-  color: #fff;
+  color: #1cb1dc;
 }
 
 #features p {
