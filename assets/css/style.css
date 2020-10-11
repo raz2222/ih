@@ -1678,3 +1678,11 @@ li i {
   height: 30px;
   width: 30px;
 }
+
+.copyright {
+  position: sticky;
+  display: block;
+  left: 20px;
+  bottom: 20px;
+  z-index: 99999;
+}
